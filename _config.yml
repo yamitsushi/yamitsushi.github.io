@@ -44,7 +44,7 @@ education:
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-#speakerdeck:
+speakerdeck:
 #   profileurl: https://speakerdeck.com/robhinds
 #   talks:
 #    - title: Product Management for Engineers
@@ -55,7 +55,7 @@ education:
 #      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
-#github:
+github:
 # - robhind/robhinds.github.io
 
 #Stackoverflow flair is optional

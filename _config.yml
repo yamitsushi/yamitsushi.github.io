@@ -58,7 +58,7 @@ speakerdeck:
 #      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
-#github:
+github:
 # - robhind/robhinds.github.io
 
 #Stackoverflow flair is optional

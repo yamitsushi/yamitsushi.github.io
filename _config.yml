@@ -2,6 +2,9 @@
 title: Russel Dave Cruz
 name: Russel Dave Cruz
 
+# Build settings
+markdown: kramdown
+
 #User specific content
 #Links that will appear in the navbar
 primarylinks:

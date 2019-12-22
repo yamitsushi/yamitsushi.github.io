@@ -55,7 +55,6 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhind/robhinds.github.io
  - yamitsushi/portal
 
 #Stackoverflow flair is optional

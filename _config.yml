@@ -8,6 +8,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
+ - title: Github
+   url: https://github.com/yamitsushi
  - title: Facebook
    url: https://facebook.com/russelcruz01
 
@@ -17,13 +19,7 @@ skills:
  - Cisco
  - Mikrotik
  - Programming
- - Web Development
- - Laravel
- - Jquery
- - Bootstrap
- - Vuejs
- - Database Management
- - Raspberry
+ - Fullstack Laravel Development
  - Python
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
@@ -60,6 +56,7 @@ speakerdeck:
 #List of interesting Github repo/projects to include - optional
 github:
  - robhind/robhinds.github.io
+ - yamitsushi/portal
 
 #Stackoverflow flair is optional
 stackoverflow:
@@ -75,4 +72,3 @@ additionalinfo: |
   <strong>Networking</strong>:My work is based on providing internet access to a certain user/office, therefore I am familiar with Cisco, Mikrotik and some networking devices<br/><br/>   
   <strong>Laravel</strong>: I have used Laravel framework haphazardly before. Through this experience I am confident to say that I improved alot with my debugging skills and understanding on this framework as a whole.<br/><br/>
   <strong>Raspberry</strong>: Since this is just a new hobby to leisure some free time, I can only say that I can somehow or another use Raspbian just like any Desktop. Using this, I make something which pinned my interest just like a child trying the things they found out.</br></br>
-  Since I am knowledgable about technology, I help the church I belong to, which is providing support like using my knowledge to ease the problem my churchmate encounters on technology.<br/></br>

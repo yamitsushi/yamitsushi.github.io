@@ -55,7 +55,9 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - yamitsushi/account-management
  - yamitsushi/portal
+ - yamitsushi/portal-setup
 
 #Stackoverflow flair is optional
 stackoverflow:
